@@ -1,0 +1,43 @@
+# Local game installation and save/configuration data
+/FIFA 17/
+
+# Locally extracted tools and unrelated tool repositories
+/FrostyModManager/
+/FrostyToolsuite-FIFA17editionv3fixed/
+/imhex/
+/winmerge/
+/dist/
+/.obsidian/
+
+# Private screenshots, exported game assets, and Frosty project state
+/prints/
+/work/
+/frosty_projects/
+**/ModData/
+**/Autosave/
+
+# Frosty/game binaries and generated packages
+*.fbproject
+*.fbmod
+*.DAT
+*.APT
+*.BIG
+*.sb
+*.toc
+*.mft
+
+# Python and editor-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Local environment and temporary data
+.env
+.env.*
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
